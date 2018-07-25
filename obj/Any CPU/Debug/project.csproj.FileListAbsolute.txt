@@ -1,0 +1,38 @@
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\grpc_csharp_ext.x86.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\grpc_csharp_ext.x64.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\libgrpc_csharp_ext.x86.so
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\libgrpc_csharp_ext.x64.so
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\project.dll.config
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\project.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\project.pdb
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\FluentAssertions.Core.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\FluentAssertions.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\Gauge.CSharp.Lib.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\Grpc.Core.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\log4net.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\Newtonsoft.Json.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\NLog.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\nunit.framework.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\System.Interactive.Async.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\WebDriver.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\WebDriver.Support.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\Winium.WebDriver.dll
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\FluentAssertions.pdb
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\FluentAssertions.xml
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\FluentAssertions.Core.pdb
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\FluentAssertions.Core.xml
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\Grpc.Core.pdb
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\Grpc.Core.xml
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\log4net.xml
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\Newtonsoft.Json.xml
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\NLog.xml
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\nunit.framework.pdb
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\nunit.framework.xml
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\System.Interactive.Async.xml
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\WebDriver.xml
+C:\Users\olcay\Desktop\gauge\project\gauge_bin\WebDriver.Support.xml
+C:\Users\olcay\Desktop\gauge\project\obj\Any CPU\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\olcay\Desktop\gauge\project\obj\Any CPU\Debug\project.dll
+C:\Users\olcay\Desktop\gauge\project\obj\Any CPU\Debug\project.pdb
