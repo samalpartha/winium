@@ -1,0 +1,11 @@
+﻿{
+  "SIX": {
+    "id": "num6Button"
+  },
+  "FIVE": {
+    "id": "num5Button"
+  },
+  "MULTIPLY": {
+    "id": "multiplyButton"
+  }
+} 
